@@ -1,0 +1,23 @@
+{
+  "name": "first-microservice",
+  "version": "1.0.0",
+  "description": "my first peace be upon you microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "micro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedmhiri/tuto-microservice.git"
+  },
+  "author": "mohamed mhiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedmhiri/tuto-microservice/issues"
+  },
+  "homepage": "https://github.com/mohamedmhiri/tuto-microservice#readme",
+  "dependencies": {
+    "micro": "^8.0.1"
+  }
+}
